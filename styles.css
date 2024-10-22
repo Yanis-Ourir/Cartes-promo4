@@ -6,6 +6,7 @@
     padding: 5px;
     border-radius: 10px;
     text-align: center;
+    
 }
 
 
@@ -19,6 +20,9 @@
     border-radius: 10px;
     text-align: center;
     margin-top: 40px;
+
+#loutre {
+    font-size: xx-large;
 }
 
 
