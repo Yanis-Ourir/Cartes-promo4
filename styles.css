@@ -15,6 +15,22 @@
     width: 40%;
 }
 
+.cat {
+    position:sticky;
+    margin: auto;
+    border: 2px solid black;
+    width: fit-content;
+    padding: 5px;
+    border-radius: 15px;
+    text-align: center;
+    background-color:rgb(250, 143, 193);
+    box-shadow: 0 8px 8px 0 rgb(221, 34, 190);
+}
+
+
+.cat img {
+    width: 200px;
+}
 
 .carddeux{
     display: flex;
