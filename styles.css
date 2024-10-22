@@ -6,6 +6,7 @@
     padding: 5px;
     border-radius: 10px;
     text-align: center;
+    
 }
 
 
@@ -51,4 +52,76 @@ transform: scale(1,05);
 .img{
     width: 40%;
 }
+=======
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+.cartee {
+    text-align: center;
+    width: 354px;
+    height: 377px;
+    background-color: rgb(5, 91, 34);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    border-radius: 10px 30px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); 
+    transition: transform 0.3s ease, box-shadow 0.3s ease; 
+}
+
+
+.cartee:hover {
+    transform: scale(1.05); 
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3); 
+  background-color: green;   
+
+}
+
+
+
+#theBest{
+    width: 300px;
+}
+
+
+#bienNUL{
+    display: block;
+}
+
+.card2 {
+    margin-top: 10px;
+}
+
+
+.ma-carte{
+    border: 3px solid rgb(255, 0, 0);
+    width: fit-content;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 40px;
+
+
+#loutre {
+    font-size: xx-large;
+}
+
+.cart-kaamelott{
+    margin-top: 2em;
+    background-color: brown ;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+
+
+
+
+
+
+.cart-kaamelott p {
+    color:white;
+    text-decoration: dotted;
+}
+
 
