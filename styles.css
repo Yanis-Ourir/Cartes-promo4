@@ -13,6 +13,14 @@
     width: 40%;
 }
 
+.ma-carte{
+    border: 3px solid rgb(255, 0, 0);
+    width: fit-content;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 40px;
+}
+
 
 
 
