@@ -15,6 +15,46 @@
     width: 40%;
 }
 
+
+.carddeux{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: fit-content;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    animation: trickshot 10s linear infinite;
+    box-shadow: 2px 2px 15px black;
+    transition: 1s;
+}
+
+
+.carddeux:hover{
+transform: scale(1,05);
+}
+
+@keyframes trickshot{
+0% { rotate: 0deg;
+
+}
+
+50%{
+    rotate: 50deg;
+}
+
+
+100% {
+    padding: 100deg
+}
+
+
+} 
+
+.img{
+    width: 40%;
+}
+
 .carte {
     margin-top: 10px;
     border: 3px dashed red;
@@ -37,7 +77,7 @@
     border-radius: 15px;
     text-align: center;
 
-  
+
 .flex {
     display: flex;
     justify-content: center;
