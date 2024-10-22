@@ -28,6 +28,8 @@
     height: 2OOpx;
 }
 
+
+
 .carte {
     border: 2px dotted red;
     width: fit-content;
@@ -115,5 +117,19 @@
     color:white;
     text-decoration: dotted;
 }
+  
+.cardsimon {
+    border: 2px solid rgb(47, 209, 6);
+    width: fit-content;
+    padding: 5px;
+    border-radius: 20px;
+    text-align: center;
+    
+}
 
+.cardsimon img {
 
+    width : 350px;
+    height : 250px;
+
+}
