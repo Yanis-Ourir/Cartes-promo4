@@ -15,6 +15,14 @@
 }
 
 
+#theBest{
+    width: 300px;
+}
+
+
+#bienNUL{
+    display: block;
+}
 
 .card2 {
     margin-top: 10px;
@@ -50,4 +58,5 @@
     color:white;
     text-decoration: dotted;
 }
+
 
