@@ -14,12 +14,20 @@
     width: 40%;
 }
 
+
+
+.card2 {
+    margin-top: 10px;
+}
+
+
 .ma-carte{
     border: 3px solid rgb(255, 0, 0);
     width: fit-content;
     border-radius: 10px;
     text-align: center;
     margin-top: 40px;
+
 
 #loutre {
     font-size: xx-large;
@@ -33,7 +41,13 @@
     align-items: center;
 }
 
+
+
+
+
+
 .cart-kaamelott p {
     color:white;
     text-decoration: dotted;
 }
+
