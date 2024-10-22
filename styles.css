@@ -13,6 +13,21 @@
     width: 40%;
 }
 
+.carte {
+    border: 2px dotted red;
+    width: fit-content;
+    padding: 5px;
+    border-radius: 15px;
+    text-align: center;
+}
 
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.carte img{
+    width: 40%;
+}
 
 
