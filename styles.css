@@ -25,6 +25,15 @@
     font-size: xx-large;
 }
 
+.cart-kaamelott{
+    margin-top: 2em;
+    background-color: brown ;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
 
-
-
+.cart-kaamelott p {
+    color:white;
+    text-decoration: dotted;
+}
